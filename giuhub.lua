@@ -39,23 +39,23 @@ local MainWindow = Rayfield:CreateWindow({
     end, 
     })
  local Button = MainTab:CreateButton({
-    Name = "Azure Modded",
+    Name = "Lock",
     Callback = function(v)
-        v = loadstring(game:HttpGet("https://raw.githubusercontent.com/Actyrn/Scripts/main/AzureModded"))()
+        v = loadstring(game:HttpGet("https://pastebin.com/raw/tFicrmp0"))()
 
     end, 
     })
  local Button = MainTab:CreateButton({
-    Name = "Azure Modded",
+    Name = "Dupe Script",
     Callback = function(v)
-        v = loadstring(game:HttpGet("https://raw.githubusercontent.com/Actyrn/Scripts/main/AzureModded"))()
+        v = loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/main/DupeSsv2"))()
 
     end, 
     })
  local Button = MainTab:CreateButton({
-    Name = "Azure Modded",
+    Name = "iShield",
     Callback = function(v)
-        v = loadstring(game:HttpGet("https://raw.githubusercontent.com/Actyrn/Scripts/main/AzureModded"))()
+        v = loadstring(game:HttpGet("https://raw.githubusercontent.com/iShield2005/scripts/master/shieldhubloader"))()
 
     end, 
     })
@@ -75,7 +75,7 @@ local MainWindow = Rayfield:CreateWindow({
  local Button = MainTab:CreateButton({
     Name = "Blade Ball Auto Parry",
     Callback = function(v)
-        v = loadstring(game:HttpGet("https://pastebin.com/tFicrmp0"))()
+        v = loadstring(game:HttpGet("https://pastebin.com/raw/tw5if3qA"))()
     end
  })
  
