@@ -39,6 +39,34 @@ local MainWindow = Rayfield:CreateWindow({
     end, 
     })
  local Button = MainTab:CreateButton({
+    Name = "Azure Modded",
+    Callback = function(v)
+        v = loadstring(game:HttpGet("https://raw.githubusercontent.com/Actyrn/Scripts/main/AzureModded"))()
+
+    end, 
+    })
+ local Button = MainTab:CreateButton({
+    Name = "Azure Modded",
+    Callback = function(v)
+        v = loadstring(game:HttpGet("https://raw.githubusercontent.com/Actyrn/Scripts/main/AzureModded"))()
+
+    end, 
+    })
+ local Button = MainTab:CreateButton({
+    Name = "Azure Modded",
+    Callback = function(v)
+        v = loadstring(game:HttpGet("https://raw.githubusercontent.com/Actyrn/Scripts/main/AzureModded"))()
+
+    end, 
+    })
+ local Button = MainTab:CreateButton({
+    Name = "Azure Modded",
+    Callback = function(v)
+        v = loadstring(game:HttpGet("https://raw.githubusercontent.com/Actyrn/Scripts/main/AzureModded"))()
+
+    end, 
+    })
+ local Button = MainTab:CreateButton({
     Name = "Da Hood Polakya",
     Callback = function(v)
         v = loadstring(game:HttpGet("https://raw.githubusercontent.com/pixelheadx/Polakya/main/Bestscript.md"))();
