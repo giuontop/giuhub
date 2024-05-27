@@ -32,9 +32,9 @@ local MainWindow = Rayfield:CreateWindow({
  
  
  local Button = MainTab:CreateButton({
-    Name = "Azure Modded",
+    Name = "MM2 Script",
     Callback = function(v)
-        v = loadstring(game:HttpGet("https://raw.githubusercontent.com/Actyrn/Scripts/main/AzureModded"))()
+        v = loadstring(game:HttpGet("https://raw.githubusercontent.com/Pa1nx/MurderMystery2ScriptTESTING/main/TestFile"))()
 
     end, 
     })
