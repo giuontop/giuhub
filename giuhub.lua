@@ -34,7 +34,7 @@ local MainWindow = Rayfield:CreateWindow({
  local Button = MainTab:CreateButton({
     Name = "MM2 Script",
     Callback = function(v)
-        v = loadstring(game:HttpGet("https://raw.githubusercontent.com/Pa1nx/MurderMystery2ScriptTESTING/main/TestFile"))()
+        v = loadstring(game:HttpGet("https://raw.githubusercontent.com/mezzopera/OMEN-MM2/main/omenmm2"))()
 
     end, 
     })
