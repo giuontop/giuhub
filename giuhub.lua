@@ -32,16 +32,16 @@ local MainWindow = Rayfield:CreateWindow({
  
  
  local Button = MainTab:CreateButton({
-    Name = "MM2 Script",
+    Name = "MM2",
     Callback = function(v)
         v = loadstring(game:HttpGet("https://raw.githubusercontent.com/mezzopera/OMEN-MM2/main/omenmm2"))()
 
     end, 
     })
  local Button = MainTab:CreateButton({
-    Name = "Lock",
+    Name = "Arsenal",
     Callback = function(v)
-        v = loadstring(game:HttpGet("https://pastebin.com/raw/tFicrmp0"))()
+        v = loadstring(game:HttpGet("https://scriptblox.com/raw/Arsenal-Thunder-Client-For-Solara-13092"))()
 
     end, 
     })
