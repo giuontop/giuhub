@@ -41,7 +41,7 @@ local MainWindow = Rayfield:CreateWindow({
  local Button = MainTab:CreateButton({
     Name = "Arsenal",
     Callback = function(v)
-        v = loadstring(game:HttpGet("https://scriptblox.com/raw/Arsenal-Thunder-Client-For-Solara-13092"))()
+        v = loadstring(game:HttpGet("https://pastebin.com/raw/4DhBNXdm"))()
 
     end, 
     })
