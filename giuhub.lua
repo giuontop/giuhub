@@ -23,7 +23,7 @@ local MainWindow = Rayfield:CreateWindow({
        FileName = "GiuHubKey",
        SaveKey = true,
        GrabKeyFromSite = false, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
-       Key = "zz"
+       Key = "https://raw.githubusercontent.com/giuontop/giuhub/main/GiuHubKey"
     }
  })
  
