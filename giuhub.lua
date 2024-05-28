@@ -32,48 +32,48 @@ local MainWindow = Rayfield:CreateWindow({
  
  
  local Button = MainTab:CreateButton({
-    Name = "🌴 MM2 🌴",
+    Name = "MM2",
     Callback = function(v)
         v = loadstring(game:HttpGet("https://raw.githubusercontent.com/mezzopera/OMEN-MM2/main/omenmm2"))()
 
     end, 
     })
  local Button = MainTab:CreateButton({
-    Name = "🌴 Arsenal 🌴",
+    Name = "Arsenal",
     Callback = function(v)
         v = loadstring(game:HttpGet("https://pastebin.com/raw/4DhBNXdm"))()
 
     end, 
     })
  local Button = MainTab:CreateButton({
-    Name = "🌴 Dupe Script 🌴",
+    Name = "Dupe Script",
     Callback = function(v)
         v = loadstring(game:HttpGet("https://pastebin.com/raw/qchSrRsW"))()
 
     end, 
     })
  local Button = MainTab:CreateButton({
-    Name = "🌴 iShield 🌴",
+    Name = "iShield",
     Callback = function(v)
         v = loadstring(game:HttpGet("https://raw.githubusercontent.com/iShield2005/scripts/master/shieldhubloader"))()
 
     end, 
     })
  local Button = MainTab:CreateButton({
-    Name = "🌴 Azure Modded 🌴",
+    Name = "Azure Modded",
     Callback = function(v)
         v = loadstring(game:HttpGet("https://raw.githubusercontent.com/Actyrn/Scripts/main/AzureModded"))()
 
     end, 
     })
  local Button = MainTab:CreateButton({
-    Name = "🌴 Da Hood Polakya 🌴",
+    Name = "Da Hood Polakya",
     Callback = function(v)
         v = loadstring(game:HttpGet("https://raw.githubusercontent.com/pixelheadx/Polakya/main/Bestscript.md"))();
     end, 
     })
  local Button = MainTab:CreateButton({
-    Name = "🌴 Blade Ball 🌴",
+    Name = "Blade Ball",
     Callback = function(v)
         v = loadstring(game:HttpGet("https://pastebin.com/raw/tw5if3qA"))()
     end
