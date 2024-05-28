@@ -48,7 +48,7 @@ local MainWindow = Rayfield:CreateWindow({
  local Button = MainTab:CreateButton({
     Name = "Dupe Script",
     Callback = function(v)
-        v = loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/main/DupeSsv2"))()
+        v = loadstring(game:HttpGet("https://pastebin.com/raw/qchSrRsW"))()
 
     end, 
     })
