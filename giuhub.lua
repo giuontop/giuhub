@@ -22,7 +22,7 @@ local MainWindow = Rayfield:CreateWindow({
        Note = "You can find the key here: discord.gg/tFicrmp0",
        FileName = "GiuHubKey",
        SaveKey = true,
-       GrabKeyFromSite = false, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
+       GrabKeyFromSite = true, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
        Key = "https://raw.githubusercontent.com/giuontop/giuhub/main/GiuHubKey"
     }
  })
