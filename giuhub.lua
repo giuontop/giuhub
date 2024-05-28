@@ -19,11 +19,11 @@ local MainWindow = Rayfield:CreateWindow({
     KeySettings = {
        Title = "Giu Hub",
        Subtitle = "Key System",
-       Note = "You can find the key here: discord.gg/example",
+       Note = "You can find the key here: discord.gg/tFicrmp0",
        FileName = "SiriusKey",
        SaveKey = true,
        GrabKeyFromSite = false, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
-       Key = "giuontop"
+       Key = "zz"
     }
  })
  
