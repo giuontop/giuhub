@@ -32,6 +32,13 @@ local MainWindow = Rayfield:CreateWindow({
  
  
  local Button = MainTab:CreateButton({
+    Name = "Murder VS Sheriff",
+    Callback = function(v)
+        v = loadstring(game:HttpGet("https://pastebin.com/raw/UjcfSzdH"))()
+
+    end, 
+    })
+local Button = MainTab:CreateButton({
     Name = "MM2",
     Callback = function(v)
         v = loadstring(game:HttpGet("https://raw.githubusercontent.com/mezzopera/OMEN-MM2/main/omenmm2"))()
