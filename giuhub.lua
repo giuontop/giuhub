@@ -39,14 +39,14 @@ local MainWindow = Rayfield:CreateWindow({
     end, 
     })
 local Button = MainTab:CreateButton({
-    Name = "⚡ MM2 ⚡",
+    Name = "⚡ SOON ⚡",
     Callback = function(v)
         v = loadstring(game:HttpGet("https://raw.githubusercontent.com/mezzopera/OMEN-MM2/main/omenmm2"))()
 
     end, 
     })
  local Button = MainTab:CreateButton({
-    Name = "⚡ Arsenal ⚡",
+    Name = "⚡ SOON ⚡",
     Callback = function(v)
         v = loadstring(game:HttpGet("https://pastebin.com/raw/4DhBNXdm"))()
 
@@ -60,16 +60,9 @@ local Button = MainTab:CreateButton({
     end, 
     })
  local Button = MainTab:CreateButton({
-    Name = "⚡ iShield ⚡",
-    Callback = function(v)
-        v = loadstring(game:HttpGet("https://raw.githubusercontent.com/iShield2005/scripts/master/shieldhubloader"))()
-
-    end, 
-    })
- local Button = MainTab:CreateButton({
     Name = "⚡ Azure Modded ⚡",
     Callback = function(v)
-        v = loadstring(game:HttpGet("https://raw.githubusercontent.com/Actyrn/Scripts/main/AzureModded"))()
+        v = loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/Actyrn/Scripts/main/AzureModded"))()"))()
 
     end, 
     })
@@ -80,7 +73,7 @@ local Button = MainTab:CreateButton({
     end, 
     })
  local Button = MainTab:CreateButton({
-    Name = "⚡ Blade Ball ⚡",
+    Name = "⚡ SOON ⚡",
     Callback = function(v)
         v = loadstring(game:HttpGet("https://pastebin.com/raw/tw5if3qA"))()
     end
