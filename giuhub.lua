@@ -32,7 +32,7 @@ local MainWindow = Rayfield:CreateWindow({
  
  
  local Button = MainTab:CreateButton({
-    Name = "⚡ Murder VS Sheriff ⚡",
+    Name = "⚡ Hitbox Expander ⚡",
     Callback = function(v)
         v = loadstring(game:HttpGet("https://pastebin.com/raw/UjcfSzdH"))()
 
