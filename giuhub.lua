@@ -73,8 +73,8 @@ local Button = MainTab:CreateButton({
     end, 
     })
  local Button = MainTab:CreateButton({
-    Name = "⚡ SOON ⚡",
+    Name = "⚡ Skido.gg V3 ⚡",
     Callback = function(v)
-        v = loadstring(game:HttpGet("https://pastebin.com/raw/tw5if3qA"))()
+        v = loadstring(game:HttpGet("https://raw.githubusercontent.com/yuvic123/SKIDO-V3/refs/heads/main/%40Siom4i_"))()
     end
  })
